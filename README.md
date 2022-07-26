@@ -1,3 +1,15 @@
+<div align='center'>
+
+[![GitHub issues](https://img.shields.io/github/issues/M17-Project/Mini17?style=flat-square)](https://github.com/M17-Project/Mini17/issues)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/M17-Project/Mini17?style=flat-square)
+[![GitHub forks](https://img.shields.io/github/forks/M17-Project/Mini17?style=flat-square)](https://github.com/M17-Project/Mini17/network)
+[![GitHub stars](https://img.shields.io/github/stars/M17-Project/Mini17?style=flat-square)](https://github.com/M17-Project/Mini17/stargazers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/M17-Project/Mini17?style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/yes/2022?style=flat-square)
+![Matrix](https://img.shields.io/matrix/m17-project:matrix.org?style=flat-square)
+
+</div>
+
 # Mini17
 Mini17 - QRP M17 handheld. Work in progress! The schematic is just a sketch for now. Stay tuned.
 
