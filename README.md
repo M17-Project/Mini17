@@ -7,6 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/M17-Project/Mini17?style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022?style=flat-square)
 ![Matrix](https://img.shields.io/matrix/m17-project:matrix.org?style=flat-square)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm17_project)
 
 </div>
 
