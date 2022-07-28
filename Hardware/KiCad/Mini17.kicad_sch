@@ -106,6 +106,12 @@
     (path "/f4521ef1-9a41-474d-b880-30e1e54c8ecb/f0f65818-e52f-4c91-b319-79f4ee1cfdef"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/f860093f-e8fb-4e0d-b5fb-584606438eed"
+      (reference "#PWR08") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/ac0047e1-4f4d-433f-840b-b34ea711c83e"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/862eddca-ef98-4923-b560-eb0bbc930ead"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -568,6 +574,18 @@
     (path "/f4521ef1-9a41-474d-b880-30e1e54c8ecb/f22ed4b2-74a4-45da-a4e8-fda998772e32"
       (reference "C55") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/f3162e31-9a8f-4d20-aa2c-8fcc17ece0e7"
+      (reference "C56") (unit 1) (value "20uF") (footprint "")
+    )
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/6638c73a-309b-42e5-86b7-c27e1c723b0b"
+      (reference "C57") (unit 1) (value "20uF") (footprint "")
+    )
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/bd2675d7-f4ed-4178-a9c2-c075ab110c86"
+      (reference "C58") (unit 1) (value "20uF") (footprint "")
+    )
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/c78db214-0ef1-4847-b263-2fd032008a57"
+      (reference "C59") (unit 1) (value "20uF") (footprint "")
+    )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/994733dc-7914-462b-82ea-0662381aef0e"
       (reference "D1") (unit 1) (value "BAT60A") (footprint "Diode_SMD:D_SOD-323")
     )
@@ -769,53 +787,53 @@
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/160c8465-bcfd-418e-b81c-15ed2bdb339d"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/b3d73f03-7230-4cb2-8e0d-e2d91d3046d7"
+      (reference "SW2") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/00c9d796-9a1f-424f-9aa0-dbb229c9b858"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/2298b454-40e5-4917-8fda-8f4a14ebc47a"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3711c327-202d-4230-97f6-42f26b182f94"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3a13778d-6094-430f-97ca-8c10d747e2a3"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3badd2eb-c4a0-4338-a960-9ee07228a62d"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/40f9ab8c-1b7e-47be-925a-68b33a926bf2"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/512ccf13-68ba-4930-ac29-9a139d25e7d1"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/628eec1a-c9bc-49eb-a34d-d5b7c232dd69"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/703d550a-1af6-4e29-a6ff-e73c927942ad"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/7bdfef91-05bf-4472-8f3d-3012f7008d44"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+      (reference "SW3") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/84977f02-7d92-4da3-81f4-ac42de472a47"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+      (reference "SW4") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/8b49b956-f979-4de3-a9af-84371476a52e"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/b3d73f03-7230-4cb2-8e0d-e2d91d3046d7"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/c57e9556-5b21-4738-b8af-1f7fc6510cc9"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/cac7f56e-d3c8-4315-8b2b-4fd21c23bcb3"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/7bdfef91-05bf-4472-8f3d-3012f7008d44"
+      (reference "SW5") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/e8c828b9-f019-438d-bc7c-9dd5b05ae28f"
-      (reference "SW?") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+      (reference "SW6") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3711c327-202d-4230-97f6-42f26b182f94"
+      (reference "SW7") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/cac7f56e-d3c8-4315-8b2b-4fd21c23bcb3"
+      (reference "SW8") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/8b49b956-f979-4de3-a9af-84371476a52e"
+      (reference "SW9") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3a13778d-6094-430f-97ca-8c10d747e2a3"
+      (reference "SW10") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/703d550a-1af6-4e29-a6ff-e73c927942ad"
+      (reference "SW11") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/c57e9556-5b21-4738-b8af-1f7fc6510cc9"
+      (reference "SW12") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/40f9ab8c-1b7e-47be-925a-68b33a926bf2"
+      (reference "SW13") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/628eec1a-c9bc-49eb-a34d-d5b7c232dd69"
+      (reference "SW14") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/512ccf13-68ba-4930-ac29-9a139d25e7d1"
+      (reference "SW15") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/2298b454-40e5-4917-8fda-8f4a14ebc47a"
+      (reference "SW16") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3badd2eb-c4a0-4338-a960-9ee07228a62d"
+      (reference "SW17") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/9238fdde-3f37-4b1c-9949-4a7ee60d3c2f"
       (reference "TP1") (unit 1) (value "TP_MIC") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
