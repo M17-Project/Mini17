@@ -758,7 +758,7 @@
       (reference "LS1") (unit 1) (value "Speaker") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/af8e7032-49ca-42d1-ac06-4bd7e515ad60"
-      (reference "MK1") (unit 1) (value "Microphone") (footprint "")
+      (reference "MK1") (unit 1) (value "Microphone") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical")
     )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/7dbd65cb-f281-4658-a74f-b662988d6087"
       (reference "R1") (unit 1) (value "10k") (footprint "pkl_dipol:R_0603")

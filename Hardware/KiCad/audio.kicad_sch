@@ -2275,7 +2275,7 @@
     (property "Value" "Microphone" (id 1) (at 27.94 85.6614 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 24.13 82.55 90)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" (id 2) (at 24.13 82.55 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 24.13 82.55 90)
