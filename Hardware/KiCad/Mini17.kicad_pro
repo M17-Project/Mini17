@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TR-9.kicad_pro",
+    "filename": "Mini17.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -340,6 +340,10 @@
     [
       "b6581e89-a414-4009-a0cf-0863542e0fb3",
       "Interface"
+    ],
+    [
+      "d43e502f-6417-4b14-8c38-2f1c3245a34a",
+      "Memory"
     ]
   ],
   "text_variables": {}
