@@ -971,6 +971,8 @@
     (uuid dd901e57-56a5-45b0-9102-e8c25f0d903e)
   )
 
+  (no_connect (at 24.13 80.01) (uuid 56741420-430a-49a2-841b-ef3323477976))
+  (no_connect (at 24.13 90.17) (uuid 56741420-430a-49a2-841b-ef3323477977))
   (no_connect (at 80.01 40.64) (uuid c142f7fe-b505-471e-9f19-670aaaf3a7e4))
 
   (wire (pts (xy 71.12 118.11) (xy 71.12 120.65))
