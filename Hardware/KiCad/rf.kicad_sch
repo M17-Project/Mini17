@@ -1644,7 +1644,7 @@
   (symbol (lib_id "pkl_device:pkl_R_Small") (at 87.63 87.63 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9e28eafc-4fea-48b5-8698-3d5f88d9f287)
-    (property "Reference" "R9" (id 0) (at 87.63 82.55 90))
+    (property "Reference" "R9" (id 0) (at 83.82 86.106 90))
     (property "Value" "56k" (id 1) (at 87.63 84.963 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 87.63 87.63 0)
       (effects (font (size 1.524 1.524)) hide)
