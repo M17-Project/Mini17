@@ -173,18 +173,6 @@
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/321f4e5d-c696-441d-bb66-e71d80cb7c6a"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/0d24770d-2193-430d-a748-7f15b2d2e78c"
-      (reference "#PWR0118") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/43392063-b075-4a2b-97db-d4d2c6740e56"
-      (reference "#PWR0119") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/a4d3c1c5-f452-48be-b7ac-b911cf3c6a0c"
-      (reference "#PWR0120") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/8758a828-b211-4b3b-82b9-cb6986b9f64b"
-      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
-    )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/25688d2f-3043-4ee8-a345-00a8b2338f9a"
       (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
     )
@@ -490,9 +478,6 @@
     )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/1a03a136-8ce6-4034-95ce-b5669a2f56cc"
       (reference "BT1") (unit 1) (value "Coin") (footprint "Battery:BatteryHolder_Keystone_3000_1x12mm")
-    )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/005f2b9f-5a1f-402b-9f79-68f59b0a9002"
-      (reference "C1") (unit 1) (value "100n") (footprint "pkl_dipol:C_0603")
     )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/f01e5ef1-de56-4fc1-9b9c-739455a02cc4"
       (reference "C2") (unit 1) (value "12p") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -830,11 +815,8 @@
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/a8d32ed2-0244-429a-bed5-a3ff5160fc51"
       (reference "R6") (unit 1) (value "27") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/53077e1d-459a-412c-94d2-4727db288591"
-      (reference "R7") (unit 1) (value "10k") (footprint "pkl_dipol:R_0603")
-    )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/4e365b71-a166-4b92-815b-f61eeede168f"
-      (reference "R8") (unit 1) (value "22") (footprint "pkl_dipol:R_0603")
+    (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/cd01ad64-b93b-4ba6-9eda-4a6d0f409166"
+      (reference "R7") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/8a2fc48b-7261-4e31-896b-90ca64885ae8"
       (reference "R10") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -988,9 +970,6 @@
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/1a5523b2-2b7b-45b0-8725-01b9018f77f5"
       (reference "U1") (unit 1) (value "USBLC6-2") (footprint "Package_TO_SOT_SMD:SOT-23-6")
-    )
-    (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/4e814564-ccc6-4038-ad84-9a6045dfd0c5"
-      (reference "U2") (unit 1) (value "W25Q16") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/42697e81-8a8f-4a0f-b8fe-d47d2fcc934c"
       (reference "U3") (unit 1) (value "STM32F427ZGTx") (footprint "Package_QFP:LQFP-144_20x20mm_P0.5mm")
