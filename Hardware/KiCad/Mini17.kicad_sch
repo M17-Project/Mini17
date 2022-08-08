@@ -494,6 +494,12 @@
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/0a99226d-1a40-4203-96b8-799325151749"
       (reference "#PWR0224") (unit 1) (value "VDD") (footprint "")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/dbe63033-814d-4a89-be3d-42342255251d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/ffe7a640-1b4d-4382-a38b-1e5f1218d8d4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/1a03a136-8ce6-4034-95ce-b5669a2f56cc"
       (reference "BT1") (unit 1) (value "Coin") (footprint "Battery:BatteryHolder_Keystone_3000_1x12mm")
     )
@@ -935,6 +941,9 @@
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/9b64251a-91b9-49c8-972b-b0893abec27f"
       (reference "RV1") (unit 2) (value "50k") (footprint "M17-SmartMic:PTR901")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/c54fb8a0-45d1-45a2-8c1a-18202c23b702"
+      (reference "RV?") (unit 1) (value "Volume Control") (footprint "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Horizontal")
+    )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/160c8465-bcfd-418e-b81c-15ed2bdb339d"
       (reference "SW1") (unit 1) (value "PTT") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
     )
@@ -985,6 +994,9 @@
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3badd2eb-c4a0-4338-a960-9ee07228a62d"
       (reference "SW17") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/01761227-070d-4952-8525-9978b9d4e2c0"
+      (reference "SW?") (unit 1) (value "Channel Select - ACZ11BRXE") (footprint "")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/9238fdde-3f37-4b1c-9949-4a7ee60d3c2f"
       (reference "TP1") (unit 1) (value "TP_MIC") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
