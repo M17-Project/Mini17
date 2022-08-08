@@ -173,6 +173,18 @@
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/321f4e5d-c696-441d-bb66-e71d80cb7c6a"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/8f4c2663-e7b5-429d-aeae-b282cd876395"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/6081c79a-c0e1-43f4-80a3-71ab638995c8"
+      (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/7e625550-00ee-4583-8f33-658e7a2d1426"
+      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/9c1ac343-369e-42d2-ab03-f1e9ae403fa6"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/25688d2f-3043-4ee8-a345-00a8b2338f9a"
       (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
     )
@@ -476,8 +488,23 @@
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/93e7c2dd-d08b-4a9e-8389-4fd0c559d9c1"
       (reference "#PWR0222") (unit 1) (value "VDD") (footprint "")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/a0d2b3f0-53a1-42d4-82c0-3881d93a8dd4"
+      (reference "#PWR0223") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/0a99226d-1a40-4203-96b8-799325151749"
+      (reference "#PWR0224") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/dbe63033-814d-4a89-be3d-42342255251d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/ffe7a640-1b4d-4382-a38b-1e5f1218d8d4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/1a03a136-8ce6-4034-95ce-b5669a2f56cc"
       (reference "BT1") (unit 1) (value "Coin") (footprint "Battery:BatteryHolder_Keystone_3000_1x12mm")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/0b4afa4f-e339-4641-9043-f4d00559d216"
+      (reference "C1") (unit 1) (value "220n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/f01e5ef1-de56-4fc1-9b9c-739455a02cc4"
       (reference "C2") (unit 1) (value "12p") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -497,8 +524,14 @@
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/6e9a89bc-e427-4031-b82a-13d0cde73719"
       (reference "C7") (unit 1) (value "12p") (footprint "pkl_dipol:C_0603")
     )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/e4ffba0c-08c3-437e-942a-eb2ca916645b"
+      (reference "C8") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/0a1b217d-d117-40b7-8294-02a5b48efebe"
       (reference "C9") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/9cd7b1cc-bbf9-4e04-a557-7160fc5a8da7"
+      (reference "C10") (unit 1) (value "220n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/f4521ef1-9a41-474d-b880-30e1e54c8ecb/b1d0baef-b84f-4cee-8ec3-82891c7b38b7"
       (reference "C11") (unit 1) (value "47n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -707,14 +740,8 @@
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/4daf33da-10a5-444d-8a69-972b36f74de2"
       (reference "D5") (unit 1) (value "Power") (footprint "Diode_SMD:D_0201_0603Metric")
     )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/221c9ad4-f07b-49e8-8fba-87a65d2d8dbe"
-      (reference "D6") (unit 1) (value "PTT") (footprint "Diode_SMD:D_0603_1608Metric")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/4ce73cac-8e43-4fde-b328-e3ddb808106b"
-      (reference "D7") (unit 1) (value "Sync") (footprint "Diode_SMD:D_0603_1608Metric")
-    )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/1fedddd9-1b54-46d6-990f-a4d3f9de3709"
-      (reference "D8") (unit 1) (value "Error") (footprint "Diode_SMD:D_0603_1608Metric")
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/651b3451-5373-4c02-b23c-57926a19069d"
+      (reference "D6") (unit 1) (value "12-23C/R6GHBHC-A01/2C") (footprint "LED_SMD:LED_RGB_Everlight_EASV3015RGBA0_Horizontal")
     )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/a27b8577-f7cb-45a3-b48b-60ac6a9c09b2"
       (reference "F1") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_0805_2012Metric")
@@ -724,6 +751,9 @@
     )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/af31d3cd-a68a-44cf-89d1-5998e4ee7491"
       (reference "FB2") (unit 1) (value "FB0805") (footprint "Fuse:Fuse_0805_2012Metric")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/079944fb-1047-4d5c-b47b-a7c0150ee7dc"
+      (reference "FB3") (unit 1) (value "BLM18AG601SN1D") (footprint "digikey-footprints:0603")
     )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/66ac1616-f6f7-40f1-aa23-490d3ae0554d"
       (reference "H1") (unit 1) (value "M2") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad")
@@ -749,11 +779,11 @@
     (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/66d43a26-9674-4ce4-a0af-b21ba03c567b"
       (reference "J3") (unit 1) (value "Micro_SD_Card_Det") (footprint "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5")
     )
-    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/3801bd26-fbfa-46b2-a64f-40e072598e2e"
-      (reference "J4") (unit 1) (value "Kenwood-3.5") (footprint "M17-SmartMic:PJ-3136-B")
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/ffa40142-54d8-49c4-be68-89a094f68032"
+      (reference "J4") (unit 1) (value "PJ-307C") (footprint "")
     )
-    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/2bd8bc26-f678-4a9e-97d6-e4ad450a0511"
-      (reference "J5") (unit 1) (value "Kenwood-2.5") (footprint "M17-SmartMic:PJ-211A")
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/dfc156dd-f61c-494c-8a4f-34a740d3c4e2"
+      (reference "J5") (unit 1) (value "PJ-2282") (footprint "")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/e3d30910-61b6-4a97-b487-0e961c6b43fa"
       (reference "J6") (unit 1) (value "UART") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -817,6 +847,12 @@
     )
     (path "/6d43a1c1-46f0-4f1d-aad5-536070559a43/cd01ad64-b93b-4ba6-9eda-4a6d0f409166"
       (reference "R7") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/5f662e20-d74c-46f4-a1c2-af5e283be317"
+      (reference "R8") (unit 1) (value "470") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/c244dd55-79e7-4909-a038-75c3e8ced270"
+      (reference "R9") (unit 1) (value "1k8") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/8a2fc48b-7261-4e31-896b-90ca64885ae8"
       (reference "R10") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -905,6 +941,9 @@
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/9b64251a-91b9-49c8-972b-b0893abec27f"
       (reference "RV1") (unit 2) (value "50k") (footprint "M17-SmartMic:PTR901")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/c54fb8a0-45d1-45a2-8c1a-18202c23b702"
+      (reference "RV?") (unit 1) (value "Volume Control") (footprint "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Horizontal")
+    )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/160c8465-bcfd-418e-b81c-15ed2bdb339d"
       (reference "SW1") (unit 1) (value "PTT") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
     )
@@ -955,6 +994,9 @@
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/3badd2eb-c4a0-4338-a960-9ee07228a62d"
       (reference "SW17") (unit 1) (value "SW_Push_45deg") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/01761227-070d-4952-8525-9978b9d4e2c0"
+      (reference "SW?") (unit 1) (value "Channel Select - ACZ11BRXE") (footprint "")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/9238fdde-3f37-4b1c-9949-4a7ee60d3c2f"
       (reference "TP1") (unit 1) (value "TP_MIC") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
