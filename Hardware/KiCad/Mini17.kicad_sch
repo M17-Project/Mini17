@@ -536,6 +536,15 @@
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/0a99226d-1a40-4203-96b8-799325151749"
       (reference "#PWR0224") (unit 1) (value "VDD") (footprint "")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/8a66fa5c-e6a3-40f1-a589-2967c0e51164"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/b55edaac-acc7-4821-97cf-00141881a062"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/c5f5cd4a-b8ce-4e32-9b17-c8fefcd4803b"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/1a03a136-8ce6-4034-95ce-b5669a2f56cc"
       (reference "BT1") (unit 1) (value "Coin") (footprint "Battery:BatteryHolder_Keystone_3000_1x12mm")
     )
@@ -785,7 +794,7 @@
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/b5287748-577c-45f2-8d35-b269106fefb4"
       (reference "D4") (unit 1) (value "3v3") (footprint "Diode_SMD:D_SOD-523")
     )
-    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/4daf33da-10a5-444d-8a69-972b36f74de2"
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/d998b8fa-0906-446e-872d-b44d3808216a"
       (reference "D5") (unit 1) (value "Power") (footprint "Diode_SMD:D_0201_0603Metric")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/651b3451-5373-4c02-b23c-57926a19069d"
@@ -819,7 +828,7 @@
       (reference "IC1") (unit 1) (value "LM4861M") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/9642ced2-ccb1-4af9-8dc6-bb8148fd0741"
-      (reference "J1") (unit 1) (value "USB_C") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (reference "J1") (unit 1) (value "USB_C") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4085")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/2f690145-f516-42cb-9230-41cd838e7ae7"
       (reference "J2") (unit 1) (value "STLink") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
@@ -841,6 +850,9 @@
     )
     (path "/f4521ef1-9a41-474d-b880-30e1e54c8ecb/bf635587-354a-4ede-8021-87d68c1f2c16"
       (reference "J8") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/7283fc34-49f0-4e76-ac27-c0986e13b48b"
+      (reference "J9") (unit 1) (value "Front Panel Connector") (footprint "FH19SC24S05SH09")
     )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/75680f80-a3f5-47d6-bb32-fbf013617d32"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_Vishay_IHLP-2525")
@@ -874,6 +886,9 @@
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/af8e7032-49ca-42d1-ac06-4bd7e515ad60"
       (reference "MK1") (unit 1) (value "Microphone") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/1f19fbd6-7b8f-4149-a49e-2de64ac922ba"
+      (reference "Q?") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/fb0d1fa1-abe3-41a1-8f38-a58c06b2d594"
       (reference "R1") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -1009,6 +1024,9 @@
     )
     (path "/f4521ef1-9a41-474d-b880-30e1e54c8ecb/f4f05caa-2cef-4e15-a40d-c716670d690f"
       (reference "R171") (unit 1) (value "18") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/b24f4e79-a4cb-4a6e-a78e-04de60085deb"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1/2dcd03d2-bd11-43d5-a806-532c19babfad"
       (reference "RV1") (unit 1) (value "50k") (footprint "M17-SmartMic:PTR901")
