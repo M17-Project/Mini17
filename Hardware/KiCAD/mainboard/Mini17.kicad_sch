@@ -446,6 +446,12 @@
     (path "/d43e502f-6417-4b14-8c38-2f1c3245a34a/751fe4fb-26b9-4843-8ea6-0a220dc37e71"
       (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
     )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/91e6d1ed-ea39-4816-84bf-fc8d500ea956"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b6581e89-a414-4009-a0cf-0863542e0fb3/e6ee9610-bfc0-4869-aa0c-d9ea91abeea1"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
     (path "/783e439c-d59f-49a9-9d7c-3d3038e86484/1a03a136-8ce6-4034-95ce-b5669a2f56cc"
       (reference "BT1") (unit 1) (value "Coin") (footprint "Battery:BatteryHolder_Keystone_3000_1x12mm")
     )
