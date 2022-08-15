@@ -24,5 +24,5 @@ The RF chip used is CC1200, MCU is STM32F427ZGT6. OLED display will probably be 
 [OpenRTX](https://github.com/OpenRTX/OpenRTX) - the Linux of amateur radio!
 
 # Structure
-`/Hardware/KiCad` contains two complete KiCAD projects, one for the mainboard and the other for the HMI<br>
+`/Hardware/KiCAD` contains two complete KiCAD projects, one for the mainboard and the other for the HMI<br>
 `/MCU/Mini17.ioc` contains the pinout plan for an STM32F427ZGTx MCU (to be used with CubeIDE >=1.10.1)
