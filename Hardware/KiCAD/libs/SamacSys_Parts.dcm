@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AQY212GHAX
+D PANASONIC - AQY212GHAX - MOSFET Relay, SPST-NO, 1.1 A, Gull Wing, 60 V, 0.7 ohm, 5 kV
+K
+F https://www.digikey.in/product-detail/en/panasonic-electric-works/AQY212GHAX/255-6063-1-ND/8549338
+$ENDCMP
+#
+$CMP FH19SC-24S-0.5SH_09_
+D FFC & FPC Connectors
+K
+F https://componentsearchengine.com/Datasheets/1/FH19SC-24S-0.5SH(09).pdf
+$ENDCMP
+#
+$CMP ACZ11BR4E-15FA1-20C
+D Encoders INCR ENC, S, MECH, 20 PPR 20 DET, 5 Vdc, A/B, 2-bit, SW, 5 mm sbush 15 x 6 mm F shaft, horizontal
+K
+F https://www.cuidevices.com/product/resource/acz11.pdf
+$ENDCMP
+#
+#End Doc Library
