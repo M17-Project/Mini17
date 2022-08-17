@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -112,8 +118,15 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -333,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hmi.kicad_pro",
+    "filename": "Mini17.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -412,8 +425,36 @@
   },
   "sheets": [
     [
-      "7f6d2b2e-5386-4c6e-a6ec-ab16ba14aaad",
+      "c89c6552-5574-4959-bcaf-f05dfde21961",
       ""
+    ],
+    [
+      "6d43a1c1-46f0-4f1d-aad5-536070559a43",
+      "MCU"
+    ],
+    [
+      "f4521ef1-9a41-474d-b880-30e1e54c8ecb",
+      "RF"
+    ],
+    [
+      "1979e0c1-fbd2-4bd5-8ca6-afad457ad1a1",
+      "Audio"
+    ],
+    [
+      "783e439c-d59f-49a9-9d7c-3d3038e86484",
+      "Power"
+    ],
+    [
+      "b6581e89-a414-4009-a0cf-0863542e0fb3",
+      "Interface"
+    ],
+    [
+      "d43e502f-6417-4b14-8c38-2f1c3245a34a",
+      "Memory"
+    ],
+    [
+      "9ecd62a1-028b-4302-8a84-a4e34c950174",
+      "HMI"
     ]
   ],
   "text_variables": {}

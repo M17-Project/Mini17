@@ -1,0 +1,126 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model AQY212GHAX
+#/800109/870252/2.49/4/3/Integrated Circuit
+DEF AQY212GHAX IC 0 30 Y Y 1 F N
+F0 "IC" 750 300 50 H V L CNN
+F1 "AQY212GHAX" 750 200 50 H V L CNN
+F2 "SOP254P962X315-4N" 750 100 50 H I L CNN
+F3 "https://www.digikey.in/product-detail/en/panasonic-electric-works/AQY212GHAX/255-6063-1-ND/8549338" 750 0 50 H I L CNN
+F4 "PANASONIC - AQY212GHAX - MOSFET Relay, SPST-NO, 1.1 A, Gull Wing, 60 V, 0.7 ohm, 5 kV" 750 -100 50 H I L CNN "Description"
+F5 "3.15" 750 -200 50 H I L CNN "Height"
+F6 "667-AQY212GHAX" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Panasonic-Industrial-Devices/AQY212GHAX?qs=wKtUvITRiamLwz7hthc4Hg%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Panasonic" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AQY212GHAX" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 P
+X K 2 0 -100 200 R 50 50 0 0 P
+X D2 4 900 0 200 L 50 50 0 0 P
+X D1 3 900 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model FH19SC-24S-0.5SH_09_
+#/1083286/834307/2.49/26/4/Connector
+DEF FH19SC-24S-0.5SH_09_ J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "FH19SC-24S-0.5SH_09_" 850 200 50 H V L CNN
+F2 "FH19SC24S05SH09" 850 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/FH19SC-24S-0.5SH(09).pdf" 850 0 50 H I L CNN
+F4 "FFC & FPC Connectors" 850 -100 50 H I L CNN "Description"
+F5 "1.6" 850 -200 50 H I L CNN "Height"
+F6 "Hirose" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "FH19SC-24S-0.5SH(09)" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "798-FH19SC24S05SH09" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH19SC-24S-05SH09?qs=vnk2wBG9e160rFdcJvk5ww%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 1000 0 200 L 50 50 0 0 P
+X 2 2 1000 -100 200 L 50 50 0 0 P
+X 3 3 1000 -200 200 L 50 50 0 0 P
+X 4 4 1000 -300 200 L 50 50 0 0 P
+X 5 5 1000 -400 200 L 50 50 0 0 P
+X 6 6 1000 -500 200 L 50 50 0 0 P
+X 7 7 1000 -600 200 L 50 50 0 0 P
+X 8 8 1000 -700 200 L 50 50 0 0 P
+X 9 9 1000 -800 200 L 50 50 0 0 P
+X 10 10 1000 -900 200 L 50 50 0 0 P
+X 11 11 1000 -1000 200 L 50 50 0 0 P
+X 12 12 1000 -1100 200 L 50 50 0 0 P
+X 13 13 1000 -1200 200 L 50 50 0 0 P
+X 14 14 1000 -1300 200 L 50 50 0 0 P
+X 15 15 1000 -1400 200 L 50 50 0 0 P
+X 16 16 1000 -1500 200 L 50 50 0 0 P
+X 17 17 1000 -1600 200 L 50 50 0 0 P
+X 18 18 1000 -1700 200 L 50 50 0 0 P
+X 19 19 1000 -1800 200 L 50 50 0 0 P
+X 20 20 1000 -1900 200 L 50 50 0 0 P
+X 21 21 1000 -2000 200 L 50 50 0 0 P
+X 22 22 1000 -2100 200 L 50 50 0 0 P
+X 23 23 1000 -2200 200 L 50 50 0 0 P
+X 24 24 1000 -2300 200 L 50 50 0 0 P
+X MP1 MP1 0 0 200 R 50 50 0 0 P
+X MP2 MP2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -2400 200 -2400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model ACZ11BR4E-15FA1-20C
+#/13818610/834307/2.49/7/4/Connector
+DEF ACZ11BR4E-15FA1-20C J 0 30 Y Y 1 F N
+F0 "J" 850 500 50 H V L CNN
+F1 "ACZ11BR4E-15FA1-20C" 850 400 50 H V L CNN
+F2 "ACZ11BR4E15FA120C" 850 300 50 H I L CNN
+F3 "https://www.cuidevices.com/product/resource/acz11.pdf" 850 200 50 H I L CNN
+F4 "Encoders INCR ENC, S, MECH, 20 PPR 20 DET, 5 Vdc, A/B, 2-bit, SW, 5 mm sbush 15 x 6 mm F shaft, horizontal" 850 100 50 H I L CNN "Description"
+F5 "13.75" 850 0 50 H I L CNN "Height"
+F6 "CUI Inc." 850 -100 50 H I L CNN "Manufacturer_Name"
+F7 "ACZ11BR4E-15FA1-20C" 850 -200 50 H I L CNN "Manufacturer_Part_Number"
+F8 "490-ACZ11E15FA120C" 850 -300 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/ACZ11BR4E-15FA1-20C?qs=WyjlAZoYn521vRzc3WQA5g%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F10 "ACZ11BR4E-15FA1-20C" 850 -500 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/acz11br4e-15fa1-20c/cui-devices" 850 -600 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A1 A1 400 -500 200 U 50 50 0 0 P
+X B1 B1 600 -500 200 U 50 50 0 0 P
+X C1 C1 500 -500 200 U 50 50 0 0 P
+X S1 S1 400 500 200 D 50 50 0 0 P
+X S2 S2 500 500 200 D 50 50 0 0 P
+X MH1 MH1 0 0 200 R 50 50 0 0 P
+X MH2 MH2 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 300 800 300 800 -300 200 -300 200 300 N
+ENDDRAW
+ENDDEF
+#
+#End Library
